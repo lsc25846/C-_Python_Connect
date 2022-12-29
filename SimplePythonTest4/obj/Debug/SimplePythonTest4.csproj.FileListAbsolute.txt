@@ -1,0 +1,9 @@
+D:\單色球轉正機\AI_Test\CSharpPythonConnectTest\SimplePythonTest4\SimplePythonTest4\SimplePythonTest4\bin\Debug\SimplePythonTest4.exe.config
+D:\單色球轉正機\AI_Test\CSharpPythonConnectTest\SimplePythonTest4\SimplePythonTest4\SimplePythonTest4\bin\Debug\SimplePythonTest4.exe
+D:\單色球轉正機\AI_Test\CSharpPythonConnectTest\SimplePythonTest4\SimplePythonTest4\SimplePythonTest4\bin\Debug\SimplePythonTest4.pdb
+D:\單色球轉正機\AI_Test\CSharpPythonConnectTest\SimplePythonTest4\SimplePythonTest4\SimplePythonTest4\obj\Debug\SimplePythonTest4.Form1.resources
+D:\單色球轉正機\AI_Test\CSharpPythonConnectTest\SimplePythonTest4\SimplePythonTest4\SimplePythonTest4\obj\Debug\SimplePythonTest4.Properties.Resources.resources
+D:\單色球轉正機\AI_Test\CSharpPythonConnectTest\SimplePythonTest4\SimplePythonTest4\SimplePythonTest4\obj\Debug\SimplePythonTest4.csproj.GenerateResource.Cache
+D:\單色球轉正機\AI_Test\CSharpPythonConnectTest\SimplePythonTest4\SimplePythonTest4\SimplePythonTest4\obj\Debug\SimplePythonTest4.exe
+D:\單色球轉正機\AI_Test\CSharpPythonConnectTest\SimplePythonTest4\SimplePythonTest4\SimplePythonTest4\obj\Debug\SimplePythonTest4.pdb
+D:\單色球轉正機\AI_Test\CSharpPythonConnectTest\SimplePythonTest4\SimplePythonTest4\SimplePythonTest4\obj\Debug\SimplePythonTest4.csprojResolveAssemblyReference.cache
